@@ -122,7 +122,6 @@ calcularAreaRectangulo()
 
 // Ejercicio 10: Combinando Todo
 
-
 let productos = [
   {nombre: "Laptop", precio: 800, enOferta: false},
   {nombre: "Mouse", precio: 25, enOferta: true},
